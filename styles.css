@@ -3,13 +3,12 @@ img{
     height:325px;
     border-radius: 5px;
 }
-bondy{
-    
-    display:flex;
-    border:5px solid brown;
-    flex-direction: column;
-    justify-content: space-between;
+
+html,
+body{
+    height:100%;
 }
+
 .imageclass img{
     width:250px;
     height:225px;
@@ -61,7 +60,7 @@ body{
 }
 .firstclass{
     display:flex;
-    padding-bottom:20px;
+    padding-bottom:50px;
     flex-direction: column;
     background-color: #1F2937;
 }
@@ -126,7 +125,7 @@ body{
 }
 #thirdid{
     display:flex;
-    
+    padding-bottom:23px;
     column-gap: 20px;
 }
 #fourthid{
