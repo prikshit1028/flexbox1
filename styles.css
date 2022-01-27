@@ -73,6 +73,20 @@ body{
     border:2px solid black;
     justify-content: space-around;
 }
+.fifthclass{
+    font-size:36px;
+    font-style: italic;
+    color:#1F2937;
+    display:flex;
+    border:2px solid red;
+    flex-direction: column;
+    align-items: center;
+    width:650px;
+    margin-left:230px;
+    margin-top:100px;
+    padding:90px;
+    background-color: #E5E7EB;
+}
 
 .footer{
     border:2px solid yellow;
@@ -111,6 +125,19 @@ body{
     color:#1F2937;
     padding-top:40px;
     padding-bottom:40px;
+}
+#quote1{
+color:#1F2937;
+font-size:20px;
+font-weight:bold;
+align-self:flex-end;
+}
+#quote2{
+    color:#1F2937;
+    font-size:20px;
+    font-weight:bold;
+    align-self:flex-end;
+
 }
 a,
 .secondclass{
